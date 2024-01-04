@@ -2,8 +2,6 @@ div{
     color: tomato;
     background-color: aquamarine;
     padding: 20px;
-    border-radius: 4px;
-    inset-inline: block ;
-    border: 50px;
-    margin-inline: block;
+    border: 20px;
+    margin: 20px;
 }
