@@ -3,3 +3,7 @@ div{
     background-color: aquamarine;
     padding: 20px;
     border-radius: 4px;
+    inset-inline: block ;
+    border: 50px;
+    margin-inline: block;
+}
